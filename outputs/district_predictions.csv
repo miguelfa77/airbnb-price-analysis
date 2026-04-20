@@ -1,0 +1,129 @@
+neighbourhood_cleansed,median_actual_price,median_predicted_price,listing_count
+Abrantes,45.5,45.217175,38
+Acacias,91.5,92.83174,160
+Adelfas,115.0,111.29335,107
+Aeropuerto,43.0,41.93911,8
+Aguilas,45.5,44.39788,40
+Alameda de Osuna,60.0,59.467762,15
+Almagro,135.5,126.48992,178
+Almenara,112.0,111.214615,157
+Almendrales,67.5,66.92108,92
+Aluche,50.5,49.25507,64
+Ambroz,40.5,39.247475,10
+Amposta,73.0,76.36563,12
+Apostol Santiago,45.0,46.614395,36
+Arapiles,108.5,115.521904,216
+Aravaca,82.5,76.71155,62
+Arcos,42.0,45.368614,34
+Argüelles,127.0,131.76534,243
+Atalaya,75.0,56.8298,1
+Atocha,130.0,134.68306,29
+Bellas Vistas,94.5,99.89748,162
+Berruguete,86.0,91.08832,200
+Buenavista,57.0,54.44261,41
+Butarque,50.0,45.323723,20
+Campamento,40.0,42.831543,26
+Canillas,66.0,61.667084,112
+Canillejas,68.0,70.15236,76
+Casa de Campo,82.0,77.76328,67
+Casco Histórico de Barajas,87.0,93.73166,43
+Casco Histórico de Vallecas,79.5,84.74307,68
+Casco Histórico de Vicálvaro,55.0,62.788467,53
+Castellana,174.0,169.03983,160
+Castilla,114.0,111.16208,95
+Castillejos,108.0,107.890076,218
+Chopera,88.0,94.01637,118
+Ciudad Jardín,113.0,120.21552,90
+Ciudad Universitaria,96.0,88.40675,54
+Colina,131.0,141.89172,21
+Comillas,82.0,87.048904,121
+Concepción,98.5,100.73723,76
+Corralejos,92.5,101.37825,8
+Cortes,142.0,144.30107,863
+Costillares,132.0,137.81593,39
+Cuatro Caminos,110.0,104.61477,346
+Cuatro Vientos,52.0,72.03929,5
+Cármenes,55.0,60.19469,51
+Delicias,88.0,91.15959,128
+El Goloso,101.5,109.38147,10
+El Pardo,106.0,111.0809,2
+El Plantío,75.0,72.67876,17
+El Viso,118.0,120.897865,81
+Embajadores,108.0,109.9406,1980
+Entrevías,50.5,52.818535,50
+Estrella,92.0,86.04698,34
+Fontarrón,40.0,42.393646,51
+Fuente del Berro,116.0,111.39712,101
+Fuentelareina,137.0,135.30345,5
+Gaztambide,95.0,101.354614,186
+Goya,154.0,148.03033,315
+Guindalera,113.0,118.85147,302
+Hellín,59.0,81.437904,12
+Hispanoamérica,126.0,124.32501,122
+Horcajo,45.0,43.234196,2
+Ibiza,124.0,123.32954,225
+Imperial,100.0,116.29027,133
+Jerónimos,146.0,132.39017,86
+Justicia,138.0,135.73225,946
+La Paz,75.0,90.10841,16
+Legazpi,110.0,113.50317,35
+Lista,144.0,132.80203,173
+Los Angeles,35.0,36.17051,34
+Los Rosales,78.0,82.773544,39
+Lucero,69.0,72.760895,60
+Marroquina,85.0,88.244415,20
+Media Legua,58.0,59.58358,14
+Mirasierra,48.0,56.395306,17
+Moscardó,62.0,72.610886,124
+Niño Jesús,143.0,137.51654,61
+Nueva España,129.0,121.065735,131
+Numancia,77.0,81.24725,181
+Opañel,84.0,91.578606,141
+Orcasitas,40.5,42.099594,24
+Orcasur,93.0,94.73437,55
+Pacífico,89.5,91.01416,214
+Palacio,135.0,140.19817,1485
+Palomas,117.0,133.29338,3
+Palomeras Bajas,55.0,49.04477,40
+Palomeras Sureste,49.0,58.572296,29
+Palos de Moguer,105.0,111.57024,300
+Pavones,74.0,87.04659,7
+Peñagrande,81.0,86.8973,35
+Pilar,89.0,94.51723,53
+Pinar del Rey,100.0,102.60938,115
+Piovera,91.0,95.05606,26
+Portazgo,46.0,49.35178,44
+Pradolongo,51.0,57.351295,40
+Prosperidad,105.0,107.45653,164
+Pueblo Nuevo,81.0,92.814804,172
+Puerta Bonita,49.5,51.654305,80
+Puerta del Angel,80.5,82.719666,192
+Quintana,86.5,87.54178,84
+Recoletos,176.0,172.29633,262
+Rejas,84.0,86.898056,118
+Rios Rosas,118.0,126.23599,176
+Rosas,97.0,74.41255,29
+Salvador,84.0,90.36914,18
+San Andrés,75.5,80.885284,62
+San Cristobal,45.5,44.26924,14
+San Diego,85.0,89.23222,205
+San Fermín,52.0,62.561745,32
+San Isidro,78.0,84.918785,155
+San Juan Bautista,122.0,106.135864,24
+San Pascual,67.0,61.81701,36
+Santa Eugenia,53.5,54.90168,8
+Simancas,81.0,85.914536,83
+Sol,149.0,155.11526,1104
+Timón,106.0,108.83554,27
+Trafalgar,144.0,140.17642,357
+Universidad,126.0,126.779755,1706
+Valdeacederas,92.0,93.90336,220
+Valdefuentes,100.0,102.735435,121
+Valdemarín,47.5,43.412582,6
+Valdezarza,70.0,68.002106,57
+Vallehermoso,108.0,109.2301,82
+Valverde,82.0,84.464554,92
+Ventas,81.0,87.09563,166
+Vinateros,29.0,29.308096,22
+Vista Alegre,67.0,73.53699,85
+Zofío,60.0,56.058956,23

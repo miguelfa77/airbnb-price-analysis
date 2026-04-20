@@ -1,0 +1,27 @@
+# Whitelist-only: ignore everything except the paths below.
+# (Already-tracked files stay tracked even if matched by *.)
+
+*
+
+!.gitignore
+
+# Root project files
+!README.md
+!LICENSE
+!requirements.txt
+
+# Code & notebook
+!notebooks/
+!notebooks/**
+notebooks/**/.ipynb_checkpoints/
+
+# Pipeline outputs (figures, CSVs)
+!outputs/
+!outputs/**
+
+# Source package
+!src/
+!src/**
+src/**/__pycache__/
+src/**/*.py[cod]
+src/**/*.so

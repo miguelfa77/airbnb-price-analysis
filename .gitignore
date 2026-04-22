@@ -5,6 +5,8 @@
 
 !.gitignore
 
+!pipeline.svg
+
 # Root project files
 !README.md
 !LICENSE

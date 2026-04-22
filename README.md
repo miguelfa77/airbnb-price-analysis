@@ -2,8 +2,8 @@
 
 Reproducible pipeline for InsideAirbnb Madrid listings: ingestion, cleaning, feature engineering, modeling (OLS/Ridge/Lasso/XGBoost/LightGBM), interpretation, and report figures.
 
-### Pipeline
-![Pipeline](pipeline.svg)
+## Pipeline
+<img src="docs/pipeline.svg" width="600"/>
 
 ## How to reproduce
 
@@ -17,11 +17,11 @@ pip install -r requirements.txt
 ### Run
 Open `notebooks/main_analysis.ipynb` and run all cells top to bottom.
 Data will be downloaded automatically on first run.
-Expected total runtime: ~10–20 minutes on a modern laptop (dominated by CV).
+Expected total runtime: 10–20 minutes usually due to CV.
 
 ### Data
-Primary data: InsideAirbnb Madrid (auto-downloaded, no account needed).
-Metro stations: Madrid Open Data portal (auto-downloaded, no account needed).
+Primary data: InsideAirbnb Madrid
+Metro stations: Madrid Open Data portal
 
 ### Outputs
 All figures saved to `outputs/figures/`.

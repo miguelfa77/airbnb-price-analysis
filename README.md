@@ -3,7 +3,7 @@
 Reproducible pipeline for InsideAirbnb Madrid listings: ingestion, cleaning, feature engineering, modeling (OLS/Ridge/Lasso/XGBoost/LightGBM), interpretation, and report figures.
 
 ## Pipeline
-<img src="docs/pipeline.svg" width="600"/>
+<img src="pipeline.svg" width="600"/>
 
 ## How to reproduce
 
